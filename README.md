@@ -37,6 +37,9 @@ Bem-vindo ao **Criador Mágico de Animações com IA**, um projeto interativo e 
 
 ---
 
+[Assista à demonstração do meu projeto no meu Linkedin!](https://www.linkedin.com/feed/update/urn:li:activity:7348403775545454594/)
+
+---
 ## 🛠️ Tecnologias utilizadas
 
 - HTML  
