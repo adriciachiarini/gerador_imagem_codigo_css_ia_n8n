@@ -18,22 +18,22 @@ Bem-vindo ao **Criador Mágico de Animações com IA**, um projeto interativo e 
 
 ## 📱 Veja como funciona
 
-<p align="center">
-  <figure style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./projetoWickedResponsividade.png" width="250"/>
-    <figcaption><strong>🔮 Tela inicial do site</strong></figcaption>
-  </figure>
-
-  <figure style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./projetoWickedResponsividade2.png" width="250"/>
-    <figcaption><strong>🎨 Comando "quadrado azul"</strong></figcaption>
-  </figure>
-
-  <figure style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./projetoWickedResponsividade3.png" width="250"/>
-    <figcaption><strong>🌱 Comando "bola verde"</strong></figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./projetoWickedResponsividade.png" width="250"/><br/>
+      <strong>🔮 Tela inicial do site</strong>
+    </td>
+    <td align="center">
+      <img src="./projetoWickedResponsividade2.png" width="250"/><br/>
+      <strong>🎨 Comando "quadrado azul"</strong>
+    </td>
+    <td align="center">
+      <img src="./projetoWickedResponsividade3.png" width="250"/><br/>
+      <strong>🌱 Comando "bola verde"</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
