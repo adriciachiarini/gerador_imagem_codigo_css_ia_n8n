@@ -20,15 +20,15 @@ Bem-vindo ao **Criador Mágico de Animações com IA**, um projeto interativo e 
 
 ### A interface:
 
-![interface 1](./projetoWickedResponsividade.png)
+<img src="./projetoWickedResponsividade.png" width="300"/>
 
 ### Com animação sendo criada:
 
-![interface 2](./projetoWickedResponsividade2.png)
+<img src="./projetoWickedResponsividade2.png" width="300"/>
 
 ### Exemplo de animação gerada:
 
-![interface 3](./projetoWickedResponsividade3.png)
+<img src="./projetoWickedResponsividade3.png" width="300"/>
 
 ---
 
