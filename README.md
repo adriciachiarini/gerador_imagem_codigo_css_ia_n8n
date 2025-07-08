@@ -18,17 +18,22 @@ Bem-vindo ao **Criador Mágico de Animações com IA**, um projeto interativo e 
 
 ## 📱 Veja como funciona
 
-### A interface:
+<p align="center">
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./projetoWickedResponsividade.png" width="250"/>
+    <figcaption><strong>🔮 Tela inicial do site</strong></figcaption>
+  </figure>
 
-<img src="./projetoWickedResponsividade.png" width="300"/>
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./projetoWickedResponsividade2.png" width="250"/>
+    <figcaption><strong>🎨 Comando "quadrado azul"</strong></figcaption>
+  </figure>
 
-### Com animação sendo criada:
-
-<img src="./projetoWickedResponsividade2.png" width="300"/>
-
-### Exemplo de animação gerada:
-
-<img src="./projetoWickedResponsividade3.png" width="300"/>
+  <figure style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./projetoWickedResponsividade3.png" width="250"/>
+    <figcaption><strong>🌱 Comando "bola verde"</strong></figcaption>
+  </figure>
+</p>
 
 ---
 
